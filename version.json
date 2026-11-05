@@ -1,6 +1,6 @@
 {
   "versionCode": 1,
-  "versionName": "1",
+  "versionName": "1.0",
   "downloadUrl": "https://github.com/shad651/KittyBrowser-Downloads/releases/latest/download/KittyBrowser.apk",
-  "releaseNotes": "Automatic update system added."
+  "releaseNotes": "First public release of Kitty Browser."
 }
